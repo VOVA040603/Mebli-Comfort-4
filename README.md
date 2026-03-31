@@ -1,0 +1,98 @@
+[index.html](https://github.com/user-attachments/files/26369034/index.html)
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mebli Comfort</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="js/script.js">
+</head>
+<body>
+    <div class="container">
+  
+
+    <header id="projects">
+        <div class="background1">
+           <nav>
+            <div class="logo-box">
+                <a href="index.html"><img src="img/Vector.svg" alt="Logo"></a>
+                <ul class="menu">
+                  <li><a href="">Головна</a></i></li>
+                  <li><a href="">Послуги</a></li>
+                  <li><a href="">Наші роботи</a></li>
+                  <li><a href="">Контакти</a></li>
+                  <li><a href="">Послуги</a></li>
+                </ul>
+            <button class="button"><a href=""> Замовити дзвінок</a></button>
+            </div>
+        </nav>
+        </div>
+    </header>
+  
+    <section id="projects">
+        <div class="bloc1">
+        <h2>Якісна перетяжка <br> та виготовлення <br> м'яких меблів</h2>
+        <p>Створюємо затишок у вашому домі з любов'ю до справи.<br> Реставрація, виготовлення та перетяжка меблів від досвідчених <br> майстрів.</p>
+        <div class="img4"><img src="img/Rectangle 12.svg"></div>
+        <div class="buttont">
+        <button class="button1"><a href=""> Отримати консультацію </a></button>
+        <button class="button2"><a href=""> Наші роботи </a></button>
+        </div>
+        <div class="text1"><p>Ми в соцмережах:</p>
+        <img class="img1"><a href=""><img src="img/Group 6.svg" alt="ins"></a>
+        <img class="img2"><a href=""><img src="img/Group 7.svg" alt="fe"></a>
+        <img class="img3"><a href=""><img src="img/Group 8 (2).svg" alt="tel"></a> 
+        </div>
+        <div class="text2">
+            <H2>1 Рік</H2>
+            <p>Гарантії на роботу</p>
+        </div>
+        </div>
+    </section>
+
+    <section id="contact1">
+    <div class="container1">
+      <h2>Замовте безкоштовну <br> консультацію</h2>   
+      <p>Залиште свої контактні дані і наш менеджер зв'яжеться з вами <br> протягом 30 хвилин для обговорення вашого проекту.</p>  
+      <div class="bloc2">
+        <img src="img/Group 87.svg" alt=""> <p>Безкоштовний виїзд майстра на замір</p>
+      </div>
+      <div class="bloc3">
+        <img src="img/Group 87.svg" alt=""> <p>Розрахунок вартості за 24 години</p>
+      </div>
+      <div class="bloc4">
+        <img src="img/Group 87.svg" alt=""> <p>Гарантія на всі види робіт</p>
+      </div>
+      <div class="bloc5">
+        <div class="phone"><img src="img/Group 25.svg" alt=""> 
+          <h3>Телефонуйте</h3>
+          <p>+380 99 123 45 67</p>
+        </div>
+         <div class="clock"><img src="img/Group 26.svg" alt=""> 
+          <h3>Графік роботи</h3>
+          <p>Пн-Сб: 9:00-18:00</p>
+        </div>
+     <div class="text3"> 
+        <h3>Замовити дзвінок</h3>
+        <form id="from1">
+            <h3>Ваше ім’я</h3>
+            <input type="text" id="text4" placeholder="">
+            <h3>Номер телефону</h3>
+            <input type="text" id="text4" placeholder="">
+            <h3>Повідомлення (необов’язково)</h3>
+            <textarea name="text" id="text4" placeholder=""></textarea>
+            <button class="button3" type="">Надіслати заявку</button>
+            <p>Натискаючи кнопку, ви погоджуєтесь з <a href="">
+політикою конфіденційності</a></p>
+        </form>
+     </div>
+      </div>
+    </div>
+    </section>
+    <footer>
+
+    </footer>
+    </div>
+</body>
+</html>
